@@ -1,1 +1,1 @@
-# parsing_instagram
+# Parsing Instagram by subscription.
