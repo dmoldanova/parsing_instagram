@@ -21,11 +21,11 @@ time.sleep(3)
 login = driver.find_elements_by_css_selector('._2hvTZ.pexuQ.zyHYP')
 print(len(login))
 login[0].click()
-login[0].send_keys('mamaa_vyazhet')
+login[0].send_keys('')
     # password
 print(len(login))
 login[1].click()
-login[1].send_keys('ser2201dasha')
+login[1].send_keys('')
     # input
 button = driver.find_elements_by_css_selector('._0mzm-.sqdOP.L3NKy')
 button[0].click()
